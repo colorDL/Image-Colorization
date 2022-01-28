@@ -13,7 +13,7 @@ adversarial network is better that that of the autoencoder models.
 
 Dataset Link: https://www.kaggle.com/theblackmamba31/landscape-image-colorization
 
-# Colorization Output
+## Colorization Output
 ![output](https://user-images.githubusercontent.com/55061863/151605048-e3ec6164-f714-4e06-baac-a70566f16253.png)
 
 Three autoencoders models and one ColorGAN model on a landscape image dataset to colorize black-and-white images
