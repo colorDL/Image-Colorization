@@ -10,3 +10,5 @@ means squared error, means absolute error and colorization accuracy. The data us
 networks consists of 7000 images in the RGB color space. The performance of the implemented autoencoder models and
 generative adversarial network is measured using mean absolute error. The colorization performance of the generative
 adversarial network is better that that of the autoencoder models. 
+
+Dataset Link: https://www.kaggle.com/theblackmamba31/landscape-image-colorization
