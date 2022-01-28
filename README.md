@@ -29,4 +29,4 @@ autoencoder models.
 The use of deep learning to colorize black-and-white images has a huge potential. This can be attributed by the results
 shown is this paper. The findings provided in this this paper will help to future researchers to develop deep learning
 models for image coloration. The autoencoder models as well as ColorGAN model implemented in this project will help
-to colorize any landscape image with a superior accuracy
+to colorize any landscape image with a superior accuracy.
